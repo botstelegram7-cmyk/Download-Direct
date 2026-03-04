@@ -1,0 +1,8 @@
+pyrogram==2.0.106
+TgCrypto
+yt-dlp
+aiosqlite
+flask
+aiohttp
+gdown
+Pillow
