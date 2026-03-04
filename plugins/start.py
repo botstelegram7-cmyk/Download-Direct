@@ -1,5 +1,4 @@
-from pyrogram import filters, Client
-from pyrogram.types import Message
+from pyrogram import filters, Client, Message  # ← YE ADD KARO
 from client import app
 
 @app.on_message(filters.command("start") & filters.outgoing)
